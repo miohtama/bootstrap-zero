@@ -1378,5 +1378,22 @@ module.exports =
         avatar:"https://pbs.twimg.com/profile_images/453466439085588480/WR1KCF4e_400x400.png",
         license:"CC3.0",
         licenseUrl:"https://creativecommons.org/licenses/by/3.0/"
-    }
+    },
+    {
+        name:"libertymusicstore",
+        title:"Liberty Music Store",
+        short:"Jazzy theme for music sites",
+        full:"Jazz, pink and blue, New York and neon lights. Originally built for libertymusicstore.net",
+        tags:["menu","pink","background"],
+        imgUrl:"https://raw.githubusercontent.com/miohtama/bootstrap-theme-libertymusicstore/master/screenshots/screenshot1.png",
+        downloadUrl:"https://github.com/miohtama/bootstrap-theme-libertymusicstore/archive/master.zip",
+        sourceUrl:"https://github.com/miohtama/bootstrap-theme-libertymusicstore",
+        previewUrl:"https://libertymusicstore.net",
+        author:"miohtama",
+        authorUrl:"https://libertymusicstore.net",
+        bootstrapVersion:"3.2",
+        avatar:"http://www.gravatar.com/avatar/27dcfabaf38d4b87c036252767a4aa92.png",
+        license:"Apache 2.0",
+        licenseUrl:"http://opensource.org/licenses/Apache-2.0"
+    }    
 ]
