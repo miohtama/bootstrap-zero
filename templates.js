@@ -1388,7 +1388,7 @@ module.exports =
         imgUrl:"https://raw.githubusercontent.com/miohtama/bootstrap-theme-libertymusicstore/master/screenshots/screenshot1.png",
         downloadUrl:"https://github.com/miohtama/bootstrap-theme-libertymusicstore/archive/master.zip",
         sourceUrl:"https://github.com/miohtama/bootstrap-theme-libertymusicstore",
-        previewUrl:"https://libertymusicstore.net",
+        previewUrl:"http://miohtama.github.io/bootstrap-theme-libertymusicstore/",
         author:"miohtama",
         authorUrl:"https://libertymusicstore.net",
         bootstrapVersion:"3.2",
